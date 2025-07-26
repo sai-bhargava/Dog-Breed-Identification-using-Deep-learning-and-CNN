@@ -66,7 +66,7 @@ Open-source contributors and documentation
 📬 Contact
 For any queries or suggestions, feel free to connect:
 
-Name: Your Name
+Name: Bhargava Yerrabothula
 
 Email: yvsbreddy2003@gmail.com
 
